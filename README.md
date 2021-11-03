@@ -6,7 +6,7 @@ Photoshop
 
  
 ![wirt](https://user-images.githubusercontent.com/79604132/140184145-9e90fa6d-d70e-4c09-9e60-01cb8d9c90b5.png)
-
+↑ imagem escolhida para a palheta:
 
 2-	Site utilizado para a extração da palheta de cores: https://color.adobe.com/pt/create/image
 
