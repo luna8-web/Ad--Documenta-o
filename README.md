@@ -1,2 +1,4 @@
-# Ad--Documenta-o
-Documentação- Palhetas, fontes etc
+CRIAÇÃO DE LAYOUT DE SITE UTILIZANDO O PHOTOSHOPCRIAÇÃO DE LAYOUT DE SITE UTILIZANDO O PHOTOSHOP
+Criação do Layout de Site com Photoshop
+
+1-Escolha da Paleta de Cores
