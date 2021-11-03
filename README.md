@@ -1,4 +1,17 @@
-CRIAÇÃO DE LAYOUT DE SITE UTILIZANDO O PHOTOSHOPCRIAÇÃO DE LAYOUT DE SITE UTILIZANDO O PHOTOSHOP
-Criação do Layout de Site com Photoshop
+Criação de layout de site utilizando
+Photoshop
 
-1-Escolha da Paleta de Cores
+
+1-	Escolha da palheta de cores:
+
+ 
+
+
+2-	Site utilizado para a extração da palheta de cores: https://color.adobe.com/pt/create/image
+
+
+ 
+
+
+3-	Fonte escolhida em: https://www.dafont.com/pt/search.php?q=games e https://fonts.google.com/
+ 
